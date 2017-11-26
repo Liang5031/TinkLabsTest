@@ -1,0 +1,34 @@
+{
+    "category": "city guide",
+    "vendorCount": "100",
+    "vendors": [
+      {
+		"vendorId": "001",
+        "style": "1",
+		"title": "马卡龙 Macarons",
+		"desc": "马卡龙是巴黎最受欢迎的甜品，因为口味不同而多变的颜色，使得甜品的外型更像一件艺术品。好的马卡龙入口即化，但是会有人无法接受它太过甜腻的味道",
+        "imageUrl": "http://p1-q.mafengwo.net/s9/M00/13/90/wKgBs1eE0LiAS07uAACUlIFxt6E28.jpeg"
+      },
+      {
+	  	"vendorId": "002",
+        "style": "2",
+		"title": "",
+		"desc": "",
+        "imageUrl": "http://p4-q.mafengwo.net/s9/M00/57/4D/wKgBs1eFptuAQt1XAAT31vmB-aE75.jpeg"
+      },
+      {
+	  	"vendorId": "003",
+        "style": "1",
+		"title": "海鲜 Les fruits de mer",
+		"desc": "在巴黎的很多餐厅，尤其是法国、比利时等风格的餐厅中，都有很多新鲜味美的海鲜出售。而最值得称道的要数牡蛎了。法国牡蛎体大、肉细、汁多，是法国人钟爱的美食。若佐以口感偏干的白酒，牡蛎的味道会更鲜美。",
+        "imageUrl": "http://c3-q.mafengwo.net/s9/M00/5C/CA/wKgBs1eFsleAP9O1AAoOtt6mYCU29.jpeg"
+      },
+	  {
+	  	"vendorId": "004",
+        "style": "2",
+		"title": "",
+		"desc": "",
+        "imageUrl": "http://p4-q.mafengwo.net/s9/M00/56/ED/wKgBs1eFpkmAT5C1AAbdq_56q_478.jpeg"
+      }
+    ]
+}

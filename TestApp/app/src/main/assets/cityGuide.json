@@ -1,0 +1,34 @@
+{
+    "category": "city guide",
+    "vendorCount": "100",
+    "vendors": [
+      {
+		"vendorId": "001",
+        "style": "1",
+		"title": "香港",
+		"desc": "重要的购物区，内设有不少大型购物商场，也有许多面积较小的商铺。既有尽享维港美景的五星酒店，还有处于闹市区的经济型酒店。到星光大道、海港城，维多利亚港看夜景，只需要步行可到",
+        "imageUrl": "http://b2-q.mafengwo.net/s5/M00/87/12/wKgB3FGMgSCAZo0qAAgGckFTqJA54.jpeg?imageMogr2%2Fthumbnail%2F%211020x540r%2Fgravity%2FCenter%2Fcrop%2F%211020x540%2Fquality%2F100"
+      },
+      {
+	  	"vendorId": "002",
+        "style": "2",
+		"title": "",
+		"desc": "",
+        "imageUrl": "http://c2-q.mafengwo.net/s2/M00/7A/78/wKgBpU5VEEqMOnBXAAErxYkeVUI22.jpeg?imageMogr2%2Fthumbnail%2F%21690x450r%2Fgravity%2FCenter%2Fcrop%2F%21690x450%2Fquality%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL3AxLXEubWFmZW5nd28ubmV0L3M4L00wMC82Mi83OS93S2dCcFZodUN6Q0FJa3RIQUFBTkc4TDlCUU0xNjAucG5n%2Fgravity%2FNorthWest%2Fdx%2F20%2Fdy%2F21"
+      },
+      {
+	  	"vendorId": "003",
+        "style": "1",
+		"title": "巴厘岛",
+		"desc": "库塔以冲浪和夜生活闻名，如果首选方便热闹的话住在库塔是一个不错的选择。这里的金巴兰海滩平坦、沙粒洁白、细腻，是个玩冲浪、滑板的乐园。海滩附近有热闹的商业街,各色巴厘传统手工艺品,还有大型百货商店可买到各类商品",
+        "imageUrl": "http://p3-q.mafengwo.net/s6/M00/6B/9F/wKgB4lNXr1iAIdYxAAIwqyyI3J052.jpeg?imageMogr2%2Fthumbnail%2F%21690x450r%2Fgravity%2FCenter%2Fcrop%2F%21690x450%2Fquality%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL3AxLXEubWFmZW5nd28ubmV0L3M4L00wMC82Mi83OS93S2dCcFZodUN6Q0FJa3RIQUFBTkc4TDlCUU0xNjAucG5n%2Fgravity%2FNorthWest%2Fdx%2F20%2Fdy%2F21"
+      },
+	  {
+	  	"vendorId": "004",
+        "style": "2",
+		"title": "",
+		"desc": "",
+        "imageUrl": "http://b4-q.mafengwo.net/s5/M00/E6/04/wKgB3FEdmdOAL914AAxf2cooPvI09.jpeg?imageMogr2%2Fthumbnail%2F%21690x450r%2Fgravity%2FCenter%2Fcrop%2F%21690x450%2Fquality%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL3AxLXEubWFmZW5nd28ubmV0L3M4L00wMC82Mi83OS93S2dCcFZodUN6Q0FJa3RIQUFBTkc4TDlCUU0xNjAucG5n%2Fgravity%2FNorthWest%2Fdx%2F20%2Fdy%2F21"
+      }
+    ]
+}
